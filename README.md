@@ -23,7 +23,8 @@ You may also see any lint errors in the console.
 
 ## Screen Shots
 ![alt text](./screenShots/Img1.png)
-![alt text](./screenShots/Img2.png)
 ![alt text](./screenShots/Img3.png)
+![alt text](./screenShots/Img2.png)
+
 
 
