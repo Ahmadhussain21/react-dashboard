@@ -6,9 +6,11 @@
 
 In the project directory, you can run:
 
+
 ### `npm i`
 
-installs the node_modules.\
+installs the node_modules.
+
 
 ### `npm run dev`
 
@@ -18,7 +20,7 @@ And Runs the backend app on (http://localhost:4000)\
 
 
 
-The page will reload when you make changes.\
+The page will reload when you make changes.
 You may also see any lint errors in the console.
 
 ## Screen Shots
